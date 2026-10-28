@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna untuk tema aplikasi DineSpot -->
+    <color name="dinespot_black_bg">#FF121212</color>
+    <color name="dinespot_gold">#FFFFC857</color>
+    <color name="dinespot_input_bg">#FF242424</color>
+    <color name="text_hint">#FFB0B0B0</color>
+</resources>
